@@ -49,7 +49,7 @@ The proposed method has wide-ranging applications, particularly in scenarios inv
 
 ### Flow Diagram of Methodology
 <div align="center">
-  <img src="B_1.png" alt="Methodology Flow" width="40%" style="max-width: 400px;"/>
+  <img src="B_1.png" alt="Methodology Flow" width="30%" style="max-width: 300px; display: block; margin: 0 auto;"/>
 </div>
 *Figure 1: Flow diagram illustrating the methodology, including data preprocessing, sampling, spectral clustering, and evaluation.*
 
