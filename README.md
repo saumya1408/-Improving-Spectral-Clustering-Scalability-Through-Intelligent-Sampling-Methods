@@ -85,27 +85,6 @@ The following table summarizes the clustering evaluation metrics for different s
   - Pandas: For data manipulation and preprocessing
 - **Development Environment**: Jupyter Notebook for interactive analysis
 
-## 📊 Results
-
-### Performance Comparison
-
-| Sampling Method       | Silhouette Score | Davies-Bouldin Index | Calinski-Harabasz Index |
-|------------------------|------------------|----------------------|-------------------------|
-| Cluster-Based Sampling | 0.4111          | 0.6379              | 6220.82                |
-| Density-Based Sampling | 0.3624          | 40.4986             | 2892.83                |
-| **Ensemble Method**    | **0.6631**      | **0.4694**          | **14557.40**           |
-
-### Visualizations
-
-#### Cluster-Based Sampling Results
-![Cluster-Based Sampling](B_1.png)
-
-#### Density-Based Sampling Results
-![Density-Based Sampling](B_2.png)
-
-#### Ensemble Method Results
-![Ensemble Method](B_3.png)
-
 ## 🛠️ Tech Stack
 
 - **Programming Language**: Python 3.8+
