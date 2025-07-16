@@ -349,7 +349,7 @@ For research collaborations, academic inquiries, or further information, please 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Research Team</p>
+ 
   <p>© 2024 Pandit Deendayal Energy University. All Rights Reserved.</p>
   <p>This research was conducted at the School of Technology, PDEU, Gandhinagar, India.</p>
 </div>
