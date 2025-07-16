@@ -310,13 +310,13 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👥 Credits and Acknowledgements
 
 ### Authors
-- **Bhumika Rupchandani**  
-  School of Technology, PDEU  
-  [bhumika.rce20@sot.pdpu.ac.in](mailto:bhumika.rce20@sot.pdpu.ac.in)
-
 - **Saumya Thakor**  
   School of Technology, PDEU  
   [saumya.tce20@sot.pdpu.ac.in](mailto:saumya.tce20@sot.pdpu.ac.in)
+  
+- **Bhumika Rupchandani**  
+  School of Technology, PDEU  
+  [bhumika.rce20@sot.pdpu.ac.in](mailto:bhumika.rce20@sot.pdpu.ac.in)
 
 - **Aditya Shastri**  
   School of Technology, PDEU  
@@ -337,18 +337,19 @@ We gratefully acknowledge the support and resources provided by the School of Te
 
 For research collaborations, academic inquiries, or further information, please contact:
 
-- **Corresponding Author**:  
-  Bhumika Rupchandani  
-  Email: [bhumika.rce20@sot.pdpu.ac.in](mailto:bhumika.rce20@sot.pdpu.ac.in)
 
 - **Technical Inquiries**:  
   Saumya Thakor  
   Email: [saumya.tce20@sot.pdpu.ac.in](mailto:saumya.tce20@sot.pdpu.ac.in)
+  
+- **Corresponding Author**:  
+  Bhumika Rupchandani  
+  Email: [bhumika.rce20@sot.pdpu.ac.in](mailto:bhumika.rce20@sot.pdpu.ac.in)
 
 ---
 
 <div align="center">
   <p>Made with ❤️ by the Research Team</p>
-  <p>© 2023 Pandit Deendayal Energy University. All Rights Reserved.</p>
+  <p>© 2024 Pandit Deendayal Energy University. All Rights Reserved.</p>
   <p>This research was conducted at the School of Technology, PDEU, Gandhinagar, India.</p>
 </div>
